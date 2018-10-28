@@ -63,7 +63,7 @@
       "country" : "India",
       "featured" : false,
       "name" : "Ankush Tiwari",
-      "photo" : "gs://gdg-devfest-18-97ada.appspot.com/AnkushTiwari.jpeg"
+      "photo" : "gs://gdg-devfest-18-97ada.appspot.com/AnkushTiwari.jpeg",
       "photoUrl" : "gs://gdg-devfest-18-97ada.appspot.com/AnkushTiwari.jpeg",
       "shortBio" : "Chief Technical Officer at Mobiliya Technologies, Pune",
       "socials" : [ {
@@ -83,7 +83,7 @@
       "title" : "Machine Learning Expert"
 },
 
- "Pawan Kumar" : {
+"Pawan Kumar" : {
       "badges" : [{
         "description" : "Google Developer Expert",
       }],
@@ -110,13 +110,13 @@
 },
 
                    
-"Nikita_Gandhi" : {
+ "Nikita_Gandhi" : {
       "badges" : [ {
         "description" : "Product Lead",
         "link" : "https://www.womentechmakers.com/directory/nikita-gandhi",
         "name" : "Women Techmakers Pune Organiser",
       }],
-      "bio" : "Born with the spirit of an entrepreneur, Nikita loves to create, build and just do fun stuff in the technology field.\n Nikita enjoys delivering talks and conducting workshops for Python, Mobile and Web technologies.\nHer primary expertise is Flutter and Python, but is also friendly to backend technologies and people in general :)\nNikita loves being a part of something that delivers a change.\nCurrently, Nikita is organiser for Women Techmakers Pune. She  is an active community contributor and likes to write blogs in her free time.”,
+      "bio" : "Born with the spirit of an entrepreneur, Nikita loves to create, build and just do fun stuff in the technology field.\n Nikita enjoys delivering talks and conducting workshops for Python, Mobile and Web technologies.\nHer primary expertise is Flutter and Python, but is also friendly to backend technologies and people in general :)\nNikita loves being a part of something that delivers a change.\nCurrently, Nikita is organiser for Women Techmakers Pune. She  is an active community contributor and likes to write blogs in her free time.",
       "company" : "JI Technovation",
       "company logo" : "/images/logos/gdg-lviv.svg",
       "country" : "India",
