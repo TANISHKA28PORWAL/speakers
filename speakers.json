@@ -85,7 +85,7 @@
 
  "Pawan Kumar" : {
       "badges" : [{
-        "description" : "Software Developer",
+        "description" : "Google Developer Expert",
       }],
       "bio" : "Pawan is a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube.He is currently working in Flick2Know Technologies pvt limt,Gurgaon as Sr. Software Engineer.He is obsessed Software developer and an entrepreneur having facination to work for technology and design field.He is full of enthusiasm for flutter and Dart technology. He has worked on many projects in flutter like app for collection of UI in UIKit, WhatsApp Clone, First Open Source Flutter based material design music player,app with firebase libraries. So, energise yourself to have a informative session with him.  ",
       "company" : "Flick2Know Technologies (P) Limited",
@@ -107,7 +107,7 @@
       }, {
          ],
       "order" : 1,
-      "title" : "Software Developer"
+      "title" : "Google Developer Expert"
 },
 
                    
