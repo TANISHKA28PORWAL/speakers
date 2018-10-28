@@ -4,12 +4,12 @@
       }],
       "bio" : "Born with the spirit to uplift the tech world, Varun believes in gratifying challenges and bring dreams to work. He loves to play with myriad of technologies and programming languages. He is one of the top versatile full-stack developer and has developed a wide range of websites using Ruby on Rails and blockchain. He has significantly contributed and got recognition for design, development and deployment of world-class web applications. From completing end to end management of new websites development projects to managing teams, He has done it all. Currently this dynamic personality is working as Sr.ROR and blockchain developer in Throughout Technologies Pvt. Ltd. Having a long time experience in microservices, He has enabled the continuous deployment of large and complex applications, we are delighted to invite him for enriching our top notch crowd with indispensible knowledge and experience through a hands on session on Microservices",
       "company" : "Throughout Technologies Pvt. Ltd",
-      "company logo" : "gs://gdg-devfest-18-97ada.appspot.com/throughttechlogo.jpeg",
+      "company logo" : " ",
       "country" : "India",
       "featured" : false,
       "name" : "Varun Kothari",
-      "photo": "gs://gdg-devfest-18-97ada.appspot.com/varunkothari.jpeg",
-      "photoUrl" : "gs://gdg-devfest-18-97ada.appspot.com/varunkothari.jpeg",
+       "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/varunkothari.jpeg?alt=media&token=90512e38-a8a9-4cfd-9c5c-b419e3ea24b4",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/varunkothari.jpeg?alt=media&token=90512e38-a8a9-4cfd-9c5c-b419e3ea24b4",
       "shortBio" : "Dynamic and versatile full stack developer with proficiency in blockchain",
       "socials" : [ {
         "icon" : "github",
@@ -32,12 +32,12 @@
 "Ishwar Sawale" : {
       "bio" : "An expert brain is here to enrich you with his hands on session on Machine Learning, AI and Deep Learning. Mr.Sawle is a machine learning researcher, data scientist and software developer with an experience of 3+ years and an expertise in Chat Bot development, DevOps and Computer Vision. He has worked on numerous face recognition projects and has also launched an opensource face recognition library based on Facenet. his So you thought only humans have brains? Come change your outlook on what machines has it in for you!!",
       "company" : "Mindstix Software Labs",
-      "company logo" : "gs://gdg-devfest-18-97ada.appspot.com/mindstix.png",
+      "company logo" : " ",
       "country" : "India",
       "featured" : false,
       "name" : "Ishwar Sawale",
-      "photo" : "gs://gdg-devfest-18-97ada.appspot.com/Ishwars.jpeg",
-      "photoUrl" : "gs://gdg-devfest-18-97ada.appspot.com/Ishwars.jpeg",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Ishwars.jpeg?alt=media&token=e75cd408-1672-4623-8b4d-179a1fbb2e51",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Ishwars.jpeg?alt=media&token=e75cd408-1672-4623-8b4d-179a1fbb2e51",
       "shortBio" : "An expert Data Scientist",
       "socials" : [ {
         "icon" : "github",
@@ -59,12 +59,12 @@
 "Ankush Tiwari" : {
       "bio" : "As the CTO of Mobiliya Technologies, Pune, his key focus areas are leading the IT Strategy, managing global alliances , overseeing annual financial and regulatory planning, and managing multiple engineering teams worldwide. He is also a Machine Learning, AI and Deep Learning expert. His session will enlighten the audience with Machine Learning and Deep Learning concepts.  ",
       "company" : "Mobiliya Technologies",
-      "company logo" : "gs://gdg-devfest-18-97ada.appspot.com/mobiliya.jpeg",
+      "company logo" : " ",
       "country" : "India",
       "featured" : false,
       "name" : "Ankush Tiwari",
-      "photo" : "gs://gdg-devfest-18-97ada.appspot.com/AnkushTiwari.jpeg",
-      "photoUrl" : "gs://gdg-devfest-18-97ada.appspot.com/AnkushTiwari.jpeg",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/AnkushTiwari.jpeg?alt=media&token=57adb56c-df3d-4370-a46c-7c7ad0cce714",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/AnkushTiwari.jpeg?alt=media&token=57adb56c-df3d-4370-a46c-7c7ad0cce714",
       "shortBio" : "Chief Technical Officer at Mobiliya Technologies, Pune",
       "socials" : [ {
         "icon" : "github",
@@ -89,12 +89,12 @@
       }],
       "bio" : "Pawan is a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube.He is currently working in Flick2Know Technologies pvt limt,Gurgaon as Sr. Software Engineer.He is obsessed Software developer and an entrepreneur having facination to work for technology and design field.He is full of enthusiasm for flutter and Dart technology. He has worked on many projects in flutter like app for collection of UI in UIKit, WhatsApp Clone, First Open Source Flutter based material design music player,app with firebase libraries. So, energise yourself to have a informative session with him.  ",
       "company" : "Flick2Know Technologies (P) Limited",
-      "company logo" : "https://www.linkedin.com/company/flick2know/?originalSubdomain=in",
+      "company logo" : " ",
       "country" : "India",
       "featured" : false,
       "name" : "Pawan Kumar",
-      "photo": "https://developers.google.com/experts/people/pawan-kumar",
-      "photoUrl" : "https://developers.google.com/experts/people/pawan-kumar",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
       "shortBio" : "Pawan is a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube.He is currently working in Flick2Know Technologies pvt limt,Gurgaon as Sr. Software Engineer.",
       "socials" : [ {
         "icon" : "github",
@@ -122,8 +122,8 @@
       "country" : "India",
       "featured" : true,
       "name" : "Nikita Gandhi",
-      "photo" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
-      "photoUrl" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
       "shortBio" : "Born with the spirit of an entrepreneur,Nikita loves to create, build and make positive impact in the community",
       "socials" : [ {
         "icon" : "facebook",
@@ -149,15 +149,15 @@
         "link" : "https://www.linkedin.com/in/ajinkyakolhe112",
         "name" : "Data Engineering & Machine Learning Instructor Google Cloud Platform"
       } ],
-      "bio" : "Avid reader since childhood. Now diving in depth of Machine Learning. Technology should be fun. I have fun learning and now trying to pass on my passion of technolgy to others. ",
+      "bio" : "Avid reader since childhood. Now diving in depth of Machine Learning. Technology should be fun. He has a passion for technology and loves learning and educating others about current hot topics by engaging himself in public speaking. ",
       "company" : "Google",
       "companyLogo" : "https://www.colt.net/wp-content/uploads/2018/06/Google-Cloud-Logo-Lockup-Vertical-medium-png.png",
       "companyLogoUrl" : "https://www.colt.net/wp-content/uploads/2018/06/Google-Cloud-Logo-Lockup-Vertical-medium-png.png",
       "country" : "Mumbai, India",
       "featured" : true,
       "name" : "Ajinkya Kolhe",
-      "photo" : "https://pbs.twimg.com/profile_images/925336650846126081/wzTWCLTn_400x400.jpg",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/925336650846126081/wzTWCLTn_400x400.jpg",
+       "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.55.00%20PM.jpeg?alt=media&token=261412aa-8770-41c4-857c-8c3189cd7a9c",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.55.00%20PM.jpeg?alt=media&token=261412aa-8770-41c4-857c-8c3189cd7a9c",
       "shortBio" : "Data Engineering & Machine Learning Instructor. Avid reader since childhood. Now diving in depth of Machine Learning.",
       "socials" : [{
         "icon" : "twitter",
@@ -172,54 +172,33 @@
       "title" : "",
  },
 
-"Tarulata Champawat" : {
-            "bio" : "She is Global Manager(Technical Solutions and PreSales) of Infobeans Technologies Limited, Indore. She is in the software game for over 17 years and having expertise in ServiceNow and its integration with Google Alexa, Splunk, Jira and Slack. She is having the curiosity and passion to deliver Wow experience to clients. She likes to think herself as the teller of the stories behind the Technologies they works on, the solutions they create and and the experience they deliver.",
-            "company" : "Infobeans Technologies limited",
-            "company logo" : "",
-            "country" : "India",
-            "featured" : false,
-            "name" : "Tarulata Champawat",
-            "photoUrl" : "",
-            "shortBio" : "Global Manager - (Technical Solutions and PreSales) at Infobeans Technologies Limited",
-            "socials" : [ {
-               "icon" : "github",
-               "link" : "",
-               "name" : "Github",
-            }, {
-               "icon" : "linkedin",
-               "link" : "https://www.linkedin.com/in/tarulata-champawat-04193416/",
-               "name" : "LinkedIn",
-            }, {
-               "icon" : "stackoverflow",
-               "link" : "",
-               "name" : "Stack Overflow",
-
-            } ],
-
-            "order" : 1,
-
-            "title" : "ServiceNow Expert",
- },
-
-"Harshada Kshirsagar" : {
-      "badges" : [ {
-        "description" : "Premier Field Engineer",
-      }],
-      "bio" : "An experienced professional is here to boost you with her lightning talk session.She is Premier Field Engineer at Microsoft,Pune and is an expertise in Xamarin,Microsoft Exchange, Office 365, Networking, UWP, Unity and Desktop Bridge. She was awarded by Microsoft Developer Evangelist, Star advisor and as Star team. She is having experience as technical advisor , technical support engineer and currently working as Windows Dev consult Engineer. So,get ready for an amazing ride in technology world.  ",
-      "company" : "Microsoft",
-      "company logo" : "https://www.linkedin.com/company/microsoft/",
-      "country" : "India",
-      "featured" : false,
-      "name" : "Harshada Kshirsagar",
-      "photo": "https://www.linkedin.com/in/harshada-kshirsagar-66848017/detail/photo/",
-      "photoUrl" : "https://www.linkedin.com/in/harshada-kshirsagar-66848017/detail/photo/",
-      "shortBio" : "Premier Field Engineer at Microsoft,Pune and is an expertise in Xamarin,Microsoft Exchange, Office 365, Networking, UWP, Unity and Desktop Bridge.",
-      "socials" : [  {
+ "Tarulata Champawat" : {
+      "bio" : "She is Global Manager(Technical Solutions and PreSales) of Infobeans Technologies Limited, Indore. She is in the software game for over 17 years and having expertise in ServiceNow and its integration with Google Alexa, Splunk, Jira and Slack. She is having the curiosity and passion to deliver Wow experience to clients. She likes to think herself as the teller of the stories behind the Technologies they works on, the solutions they create and and the experience they deliver.",
+      "company" : "Infobeans Technologies limited",
+      "company logo" : "",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Tarulata Champawat",
+       "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.17%20PM.jpeg?alt=media&token=6f6bbe51-de7a-49cd-b796-e0b7442282ab",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.17%20PM.jpeg?alt=media&token=6f6bbe51-de7a-49cd-b796-e0b7442282ab",
+      "shortBio" : "Global Manager - (Technical Solutions and PreSales) at Infobeans Technologies Limited",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "",
+        "name" : "Github"
+      }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/harshada-kshirsagar-66848017/#experience-section",
+        "link" : "https://www.linkedin.com/in/tarulata-champawat-04193416/",
         "name" : "LinkedIn"
       }, {
-      }],
-      "order" : 1,
-      "title" : "Premier Field Engineer"
-},
+        "icon" : "stackoverflow",
+        "link" : "",
+
+        "name" : "Stack Overflow"
+
+      } ],
+
+      "order" : 1,
+
+      "title" : "ServiceNow Expert"
+ },
