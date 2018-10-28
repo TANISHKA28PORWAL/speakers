@@ -111,37 +111,37 @@
 },
 
                    
-"Nikita_Gandhi" : {
-      "badges" : [ {
+ "Nikita_Gandhi" : {
+        "badges" : [ {
         "description" : "Product Lead",
         "link" : "https://www.womentechmakers.com/directory/nikita-gandhi",
         "name" : "Women Techmakers Pune Organiser",
-      }],
-      "bio" : "Born with the spirit of an entrepreneur, Nikita loves to create, build and just do fun stuff in the technology field.\n Nikita enjoys delivering talks and conducting workshops for Python, Mobile and Web technologies.\nHer primary expertise is Flutter and Python, but is also friendly to backend technologies and people in general :)\nNikita loves being a part of something that delivers a change.\nCurrently, Nikita is organiser for Women Techmakers Pune. She  is an active community contributor and likes to write blogs in her free time.”,
-      "company" : "JI Technovation",
-      "company logo" : "/images/logos/gdg-lviv.svg",
-      "country" : "India",
-      "featured" : true,
-      "name" : "Nikita Gandhi",
-      "photo" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
-      "photoUrl" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
-      "shortBio" : "Born with the spirit of an entrepreneur,Nikita loves to create, build and make positive impact in the community“,
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/nikita.gandhi01",
-        "name" : "Facebook",
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/Nikkitagandhi",
-        "name" : "Twitter",
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/u/0/+NikitaGandhi01",
-        "name" : "Google+",
-      } ],
-      "order" : 26,
-      "title" : "Flutter Evangelist & Developer",
-},
+         }],
+        "bio" : "Born with the spirit of an entrepreneur, Nikita loves to create, build and just do fun stuff in the technology field.\n Nikita enjoys delivering talks and conducting workshops for Python, Mobile and Web technologies.\nHer primary expertise is Flutter and Python, but is also friendly to backend technologies and people in general :)\nNikita loves being a part of something that delivers a change.\nCurrently, Nikita is organiser for Women Techmakers Pune. She  is an active community contributor and likes to write blogs in her free time.”,
+        "company" : "JI Technovation",
+        "company logo" : "/images/logos/gdg-lviv.svg",
+        "country" : "India",
+        "featured" : true,
+        "name" : "Nikita Gandhi",
+        "photo" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
+        "photoUrl" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
+        "shortBio" : "Born with the spirit of an entrepreneur,Nikita loves to create, build and make positive impact in the community“,
+        "socials" : [ 
+          "icon" : "facebook",
+          "link" : "https://www.facebook.com/nikita.gandhi01",
+          "name" : "Facebook",
+        }, {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/Nikkitagandhi",
+          "name" : "Twitter",
+        }, {
+          "icon" : "gplus",
+          "link" : "https://plus.google.com/u/0/+NikitaGandhi01",
+          "name" : "Google+",
+        } ],
+        "order" : 26,
+        "title" : "Flutter Evangelist & Developer",
+ },
 
 
 "Ajinkya Kolhe" : {
