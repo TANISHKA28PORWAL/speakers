@@ -1,8 +1,8 @@
 "Varun Kothari" : {
       "badges" : [ {
-        "description" : "Technical Architect and Blockchain Expert",
+        "description" : "Blockchain Expert",
       }],
-      "bio" : "Born with the spirit to uplift the tech world, Varun believes in gratifying challenges and bringing dreams to work. He loves to play with myriad of technologies and programming languages. He is one of the top versatile full-stack developer and has developed a wide range of websites using Ruby on Nails and blockchain. His primary expertise is cloud services and Microservices and he enjoys delivering talks on them. He actively mentors professionals and students about the tech world in Systango and Vaishnav College. He loves developing applications that bring a change to the tech world. Currently, He is the cofounder and director of Throughout Technologies Pvt. Ltd.",
+      "bio" : "Born with the spirit to uplift the tech world, Varun believes in gratifying challenges and bring dreams to work. He loves to play with myriad of technologies and programming languages. He is one of the top versatile full-stack developer and has developed a wide range of websites using Ruby on Nails and blockchain. He has significantly contributed and got recognition for design, development and deployment of world-class web applications. From completing end to end management of new websites development projects to managing teams, He has done it all. Currently this dynamic personality is working as Sr.ROR and blockchain developer in Throughout Technologies Pvt. Ltd. Having a long time experience in microservices, He has enabled the continuous deployment of large and complex applications, we are delighted to invite him for enriching our top notch crowd with indispensible knowledge and experience through a hands on session on Microservices",
       "company" : "Throughout Technologies Pvt. Ltd",
       "company logo" : "gs://gdg-devfest-18-97ada.appspot.com/throughttechlogo.jpeg",
       "country" : "India",
@@ -10,7 +10,7 @@
       "name" : "Varun Kothari",
       "photo": "gs://gdg-devfest-18-97ada.appspot.com/varunkothari.jpeg",
       "photoUrl" : "gs://gdg-devfest-18-97ada.appspot.com/varunkothari.jpeg",
-      "shortBio" : "Dynamic and versatile full stack developer with proficiency in Microservices and Cloud Computing",
+      "shortBio" : "Dynamic and versatile full stack developer with proficiency in blockchain",
       "socials" : [ {
         "icon" : "github",
         "link" : "https://github.com/varunkothari007",
@@ -25,34 +25,9 @@
         "name" : "Stack Overflow"
       } ],
       "order" : 1,
-      "title" : "Cofounder and Director"
+      "title" : "Senior Developer"
 },
-"Mohit Soni" : {
-      "bio" : "An expert in application development, proficient in IOT, Firebase, Machine Learning and a lot more has packed in his experience and guidance in the hands on session on your way",
-      "company" : "WebDunia",
-      "company logo" : "https://github.com/soumya2103/speakers/blob/master/mohit%20soni/company%20logo.png",
-      "country" : "India",
-      "featured" : false,
-      "name" : "Mohit Soni",
-      "photo" : "https://github.com/soumya2103/speakers/blob/master/mohit%20soni/mohit%20soni.png",
-      "photoUrl" : "https://www.linkedin.com/in/iammohitsoni/detail/photo/",
-      "shortBio" : "Application Development Expert",
-      "socials" : [ {
-        "icon" : "github",
-        "link" : "https://github.com/mohit008",
-        "name" : "Github"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/iammohitsoni/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "stackoverflow",
-        "link" : "https://stackoverflow.com/users/2553431/mohit",
-        "name" : "Stack Overflow"
-      } ],
-      "order" : 1,
-      "title" : "Android Developer"
-},
+
 
 "Ishwar Sawale" : {
       "bio" : "An expert brain is here to enrich you with his hands on session on Machine Learning, AI and Deep Learning. Mr.Sawle is a machine learning researcher, data scientist and software developer with an experience of 3+ years and an expertise in Chat Bot development, DevOps and Computer Vision. He has worked on numerous face recognition projects and has also launched an opensource face recognition library based on Facenet. his So you thought only humans have brains? Come change your outlook on what machines has it in for you!!",
@@ -110,10 +85,12 @@
 "Ankush Tiwari" : {
       "bio" : "As the CTO of Mobiliya Technologies, Pune, his key focus areas are leading the IT Strategy, managing global alliances , overseeing annual financial and regulatory planning, and managing multiple engineering teams worldwide. He is also a Machine Lerning, AI and Deep Learning expert. His session will enlighten the audience with Machine Learning and Deep Learning concepts.  ",
       "company" : "Mobiliya Technologies",
+      "company logo" : "gs://gdg-devfest-18-97ada.appspot.com/mobiliya.jpeg",
       "country" : "India",
       "featured" : false,
       "name" : "Ankush Tiwari",
-      "photoUrl" : "https://www.linkedin.com/in/ankushtiwari/detail/photo/",
+      "photo" : "gs://gdg-devfest-18-97ada.appspot.com/AnkushTiwari.jpeg"
+      "photoUrl" : "gs://gdg-devfest-18-97ada.appspot.com/AnkushTiwari.jpeg",
       "shortBio" : "Chief Technical Officer at Mobiliya Technologies, Pune",
       "socials" : [ {
         "icon" : "github",
@@ -269,4 +246,32 @@
 
       "title" : "Machine Learning Expert"
 
+},
+
+
+"Mohit Soni" : {
+      "bio" : "An expert in application development, proficient in IOT, Firebase, Machine Learning and a lot more has packed in his experience and guidance in the hands on session on your way",
+      "company" : "WebDunia",
+      "company logo" : "https://github.com/soumya2103/speakers/blob/master/mohit%20soni/company%20logo.png",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Mohit Soni",
+      "photo" : "https://github.com/soumya2103/speakers/blob/master/mohit%20soni/mohit%20soni.png",
+      "photoUrl" : "https://www.linkedin.com/in/iammohitsoni/detail/photo/",
+      "shortBio" : "Application Development Expert",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/mohit008",
+        "name" : "Github"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/iammohitsoni/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "stackoverflow",
+        "link" : "https://stackoverflow.com/users/2553431/mohit",
+        "name" : "Stack Overflow"
+      } ],
+      "order" : 1,
+      "title" : "Android Developer"
 },
