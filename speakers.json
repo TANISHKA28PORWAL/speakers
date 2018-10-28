@@ -167,37 +167,10 @@
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/ajinkyakolhe112",
         "name" : "Twitter"
-      }
-]
-
-     
-"Mohit Soni" : {
-      "bio" : "An expert in application development, proficient in IOT, Firebase, Machine Learning and a lot more has packed in his experience and guidance in the hands on session on your way",
-      "company" : "WebDunia",
-      "company logo" : "https://github.com/soumya2103/speakers/blob/master/mohit%20soni/company%20logo.png",
-      "country" : "India",
-      "featured" : false,
-      "name" : "Mohit Soni",
-      "photo" : "https://github.com/soumya2103/speakers/blob/master/mohit%20soni/mohit%20soni.png",
-      "photoUrl" : "https://www.linkedin.com/in/iammohitsoni/detail/photo/",
-      "shortBio" : "Application Development Expert",
-      "socials" : [ {
-        "icon" : "github",
-        "link" : "https://github.com/mohit008",
-        "name" : "Github"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/iammohitsoni/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "stackoverflow",
-        "link" : "https://stackoverflow.com/users/2553431/mohit",
-        "name" : "Stack Overflow"
-      } ],
-      "order" : 1,
-      "title" : "Android Developer"
-},
-
+      }],
+      "order" : 26,
+      "title" : "",
+ },
 
  "Tarulata Champawat" : {
       "bio" : "She is Global Manager(Technical Solutions and PreSales) of Infobeans Technologies Limited, Indore. She is in the software game for over 17 years and having expertise in ServiceNow and its integration with Google Alexa, Splunk, Jira and Slack. She is having the curiosity and passion to deliver Wow experience to clients. She likes to think herself as the teller of the stories behind the Technologies they works on, the solutions they create and and the experience they deliver.",
