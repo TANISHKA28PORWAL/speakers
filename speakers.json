@@ -119,16 +119,16 @@
       "country" : "India",
       "featured" : false,
       "name" : "Pawan Kumar",
-      "photo": "https://avatars1.githubusercontent.com/u/12619420?s=400&v=4",
-      "photoUrl" : "https://avatars1.githubusercontent.com/u/12619420?s=400&v=4",
+      "photo": "https://developers.google.com/experts/people/pawan-kumar",
+      "photoUrl" : "https://developers.google.com/experts/people/pawan-kumar",
       "shortBio" : "Obsessed Software Developer and expertise in flutter",
       "socials" : [ {
         "icon" : "github",
-        "link" : "https://github.com/iampawan",
+        "link" : "https://developers.google.com/experts/people/pawan-kumar",
         "name" : "Github"
       }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/imthepk/?originalSubdomain=in",
+        "link" : "https://developers.google.com/experts/people/pawan-kumar",
         "name" : "LinkedIn"
       }, {
          ],
