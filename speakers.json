@@ -201,3 +201,26 @@
 
       "title" : "ServiceNow Expert"
  },
+
+"Harshada Kshirsagar" : {
+      "badges" : [ {
+        "description" : "Premier Field Engineer",
+      }],
+      "bio" : "An experienced professional is here to boost you with her lightning talk session.She is Premier Field Engineer at Microsoft,Pune and is an expertise in Xamarin,Microsoft Exchange, Office 365, Networking, UWP, Unity and Desktop Bridge. She was awarded by Microsoft Developer Evangelist, Star advisor and as Star team. She is having experience as technical advisor , technical support engineer and currently working as Windows Dev consult Engineer. So,get ready for an amazing ride in technology world.  ",
+      "company" : "Microsoft",
+      "company logo" : "https://www.linkedin.com/company/microsoft/",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Harshada Kshirsagar",
+      "photo": "https://www.linkedin.com/in/harshada-kshirsagar-66848017/detail/photo/",
+      "photoUrl" : "https://www.linkedin.com/in/harshada-kshirsagar-66848017/detail/photo/",
+      "shortBio" : "Premier Field Engineer at Microsoft,Pune and is an expertise in Xamarin,Microsoft Exchange, Office 365, Networking, UWP, Unity and Desktop Bridge.",
+      "socials" : [  {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/harshada-kshirsagar-66848017/#experience-section",
+        "name" : "LinkedIn"
+      }, {
+         ],
+      "order" : 1,
+      "title" : "Premier Field Engineer"
+},
