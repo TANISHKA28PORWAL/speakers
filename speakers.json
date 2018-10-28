@@ -87,7 +87,7 @@
       "badges" : [{
         "description" : "Software Developer",
       }],
-      "bio" : "Obsessed Software developer and an entrepreneur having facination to work for technology and design field.He is full of enthusiasm for flutter and Dart technology.Pawan is also  a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube. He has worked on many projects in flutter like app for collection of UI in UIKit, WhatsApp Clone, First Open Source Flutter based material design music player,app with firebase libraries.He is currently working in Flick2Know Technologies pvt limt,Gurgaon as Sr. Software Engineer. So, energise yourself to have a informative session with him.  ",
+      "bio" : "Pawan is a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube.He is currently working in Flick2Know Technologies pvt limt,Gurgaon as Sr. Software Engineer.He is obsessed Software developer and an entrepreneur having facination to work for technology and design field.He is full of enthusiasm for flutter and Dart technology. He has worked on many projects in flutter like app for collection of UI in UIKit, WhatsApp Clone, First Open Source Flutter based material design music player,app with firebase libraries. So, energise yourself to have a informative session with him.  ",
       "company" : "Flick2Know Technologies (P) Limited",
       "company logo" : "https://www.linkedin.com/company/flick2know/?originalSubdomain=in",
       "country" : "India",
@@ -95,14 +95,14 @@
       "name" : "Pawan Kumar",
       "photo": "https://developers.google.com/experts/people/pawan-kumar",
       "photoUrl" : "https://developers.google.com/experts/people/pawan-kumar",
-      "shortBio" : "Obsessed Software Developer and expertise in flutter",
+      "shortBio" : "Pawan is a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube.He is currently working in Flick2Know Technologies pvt limt,Gurgaon as Sr. Software Engineer.",
       "socials" : [ {
         "icon" : "github",
-        "link" : "https://developers.google.com/experts/people/pawan-kumar",
+        "link" : "https://github.com/iampawan",
         "name" : "Github"
       }, {
         "icon" : "linkedin",
-        "link" : "https://developers.google.com/experts/people/pawan-kumar",
+        "link" : "https://www.linkedin.com/in/imthepk/?originalSubdomain=in",
         "name" : "LinkedIn"
       }, {
          ],
@@ -111,37 +111,37 @@
 },
 
                    
- "Nikita_Gandhi" : {
-        "badges" : [ {
+"Nikita_Gandhi" : {
+      "badges" : [ {
         "description" : "Product Lead",
         "link" : "https://www.womentechmakers.com/directory/nikita-gandhi",
         "name" : "Women Techmakers Pune Organiser",
-         }],
-        "bio" : "Born with the spirit of an entrepreneur, Nikita loves to create, build and just do fun stuff in the technology field.\n Nikita enjoys delivering talks and conducting workshops for Python, Mobile and Web technologies.\nHer primary expertise is Flutter and Python, but is also friendly to backend technologies and people in general :)\nNikita loves being a part of something that delivers a change.\nCurrently, Nikita is organiser for Women Techmakers Pune. She  is an active community contributor and likes to write blogs in her free time.”,
-        "company" : "JI Technovation",
-        "company logo" : "/images/logos/gdg-lviv.svg",
-        "country" : "India",
-        "featured" : true,
-        "name" : "Nikita Gandhi",
-        "photo" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
-        "photoUrl" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
-        "shortBio" : "Born with the spirit of an entrepreneur,Nikita loves to create, build and make positive impact in the community“,
-        "socials" : [ 
-          "icon" : "facebook",
-          "link" : "https://www.facebook.com/nikita.gandhi01",
-          "name" : "Facebook",
-        }, {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/Nikkitagandhi",
-          "name" : "Twitter",
-        }, {
-          "icon" : "gplus",
-          "link" : "https://plus.google.com/u/0/+NikitaGandhi01",
-          "name" : "Google+",
-        } ],
-        "order" : 26,
-        "title" : "Flutter Evangelist & Developer",
- },
+      }],
+      "bio" : "Born with the spirit of an entrepreneur, Nikita loves to create, build and just do fun stuff in the technology field.\n Nikita enjoys delivering talks and conducting workshops for Python, Mobile and Web technologies.\nHer primary expertise is Flutter and Python, but is also friendly to backend technologies and people in general :)\nNikita loves being a part of something that delivers a change.\nCurrently, Nikita is organiser for Women Techmakers Pune. She  is an active community contributor and likes to write blogs in her free time.”,
+      "company" : "JI Technovation",
+      "company logo" : "/images/logos/gdg-lviv.svg",
+      "country" : "India",
+      "featured" : true,
+      "name" : "Nikita Gandhi",
+      "photo" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
+      "photoUrl" : "https://drive.google.com/file/d/1sDpSGbNwnIOEqDZGbz1ze9ISsU7h5fb6/view?usp=sharing",
+      "shortBio" : "Born with the spirit of an entrepreneur,Nikita loves to create, build and make positive impact in the community“,
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/nikita.gandhi01",
+        "name" : "Facebook",
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Nikkitagandhi",
+        "name" : "Twitter",
+      }, {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/u/0/+NikitaGandhi01",
+        "name" : "Google+",
+      } ],
+      "order" : 26,
+      "title" : "Flutter Evangelist & Developer",
+},
 
 
 "Ajinkya Kolhe" : {
