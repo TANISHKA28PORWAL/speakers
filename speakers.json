@@ -196,3 +196,27 @@
             "order" : 1,
             "title" : "ServiceNow Expert",
  },
+
+"Harshada Kshirsagar" : {
+      "badges" : [ {
+        "description" : "Technical Advisor",
+      }],
+      "bio" : "The star advisor at Microsoft, Harshada believes in supporting and helping people through her contributions to technology. She has worked with ISVs and partners in the EDU sector to bring their applications and services on Windows 10 and the Microsoft Store. She loves mentoring students and professionals through lightning talks and workshops with her primary expertise being Cross platform app development with Xamarin and MSIX. Her community contributions has won her the most prestigious award by Microsoft Developer Evangelist team for supporting and encouraging startups and techies globally.",
+      "company" : "Microsoft",
+      "company logo" : "",
+      "country" : "India",
+      "featured" : false,
+      "name" : "Harshada Kshirsagar",
+       "photo": "",
+      "photoUrl": "https://www.linkedin.com/in/harshada-kshirsagar-66848017/detail/photo/",
+      "shortBio" : "Microsoft Developer Evangelist award recipient",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/harshada-kshirsagar-66848017/",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 1,
+      "title" : "Windows Dev Consult Engineer at Microsoft"
+},
+
+
