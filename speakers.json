@@ -207,7 +207,7 @@
       "country" : "India",
       "featured" : false,
       "name" : "Harshada Kshirsagar",
-       "photo": "",
+      "photo": "https://github.com/TANISHKA28PORWAL/speakers/blob/master/harshada/harshada.jpeg",
       "photoUrl": "https://www.linkedin.com/in/harshada-kshirsagar-66848017/detail/photo/",
       "shortBio" : "Microsoft Developer Evangelist award recipient",
       "socials" : [ {
