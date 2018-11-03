@@ -30,7 +30,7 @@
 
 
 "Ishwar Sawale" : {
-      "bio" : "An expert brain is here to enrich you with his hands on session on Machine Learning, AI and Deep Learning. Mr.Sawle is a machine learning researcher, data scientist and software developer with an experience of 3+ years and an expertise in Chat Bot development, DevOps and Computer Vision. He has worked on numerous face recognition projects and has also launched an opensource face recognition library based on Facenet. his So you thought only humans have brains? Come change your outlook on what machines has it in for you!!",
+      "bio" : "An expert brain is here to enrich you with his hands on session on Machine Learning, AI and Deep Learning. Mr.Sawale is a machine learning researcher, data scientist and software developer with an experience of 3+ years and an expertise in Chat Bot development, DevOps and Computer Vision. He has worked on numerous face recognition projects and has also launched an opensource face recognition library based on Facenet. his So you thought only humans have brains? Come change your outlook on what machines has it in for you!!",
       "company" : "Mindstix Software Labs",
       "company logo" : " ",
       "country" : "India",
@@ -38,7 +38,7 @@
       "name" : "Ishwar Sawale",
       "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Ishwars.jpeg?alt=media&token=e75cd408-1672-4623-8b4d-179a1fbb2e51",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Ishwars.jpeg?alt=media&token=e75cd408-1672-4623-8b4d-179a1fbb2e51",
-      "shortBio" : "An expert Data Scientist",
+      "shortBio" : "A Data Scientist, expert in Computer Vision and Chat-bots",
       "socials" : [ {
         "icon" : "github",
         "link" : "https://github.com/ishwarsawale",
@@ -218,5 +218,43 @@
       "order" : 1,
       "title" : "Windows Dev Consult Engineer at Microsoft"
 },
+
+" Dr. Satish Patil" : {
+      "bio" : "A scientist by training and an entrepreneur by nature, Satish founded Crysagi Systems and is currently building it. Satish realized that the machine learning research was full of business opportunities. He set out to build a new approach of knowledge transfer where we can help companies find business opportunities that exist at the intersection of their existing data and machine learning research."
+      "company" : " Crysagi Systems Pvt Ltd",
+      "company logo" : "",
+      "country" : "India"
+      "featured" : false,
+      "name" : "Dr. Satish Patil",
+      "photo": "",
+      "shortBio" : "Founder and Chief Data Scientist at Crysagi Systems Pvt Ltd",
+      "socials" : ""[ {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/satish-patil-phd-37042790",
+        "name" : "LinkedIn"
+      }],
+      "order" : 1,
+      "title" : "Data Scientist"
+},
+"Mayank Mishra" : {
+      "bio" : "Lightning Talk  Migrating Big Data solutions to Google Cloud Platform - considerations, architecture and recommendations"
+      "company" : "Impetus"
+      "company logo" : ""
+      "country" : "India"
+      "featured" : false,
+      "name" : "Mayank Mishra"
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/AnkushTiwari.jpeg?alt=media&token=57adb56c-df3d-4370-a46c-7c7ad0cce714",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/AnkushTiwari.jpeg?alt=media&token=57adb56c-df3d-4370-a46c-7c7ad0cce714",
+      "shortBio" : "Lightning Talk  Migrating Big Data solutions to Google Cloud Platform - considerations, architecture and recommendations"
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "http://linkedin.com/in/mayank-mishra-3926701",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 1,
+      "title" : "Innovation Lead, Big Data Solutions"
+},
+
+
 
 
