@@ -220,10 +220,10 @@
 },
 
 " Dr. Satish Patil" : {
-      "bio" : "A scientist by training and an entrepreneur by nature, Satish founded Crysagi Systems and is currently building it. Satish realized that the machine learning research was full of business opportunities. He set out to build a new approach of knowledge transfer where we can help companies find business opportunities that exist at the intersection of their existing data and machine learning research."
+      "bio" : "A scientist by training and an entrepreneur by nature, Satish founded Crysagi Systems and is currently building it. Satish realized that the machine learning research was full of business opportunities. He set out to build a new approach of knowledge transfer where we can help companies find business opportunities that exist at the intersection of their existing data and machine learning research.",
       "company" : " Crysagi Systems Pvt Ltd",
       "company logo" : "",
-      "country" : "India"
+      "country" : "India",
       "featured" : false,
       "name" : "Dr. Satish Patil",
       "photo": "",
@@ -254,7 +254,6 @@
       "order" : 1,
       "title" : "Innovation Lead, Big Data Solutions"
 },
-
 
 
 
