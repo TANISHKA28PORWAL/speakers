@@ -61,7 +61,26 @@
           "items" : [ 110 ]
         } ],
         "startTime" : "17:20"
-      } ], 
+      }, {
+          "endTime" : " ",
+        "sessions" : [ {
+          "items" : [ 111 ]
+        } ],
+        "startTime" : " "
+      }, {
+          "endTime" : " ",
+        "sessions" : [ {
+          "items" : [ 112 ]
+        } ],
+        "startTime" : " "
+      }, {
+          "endTime" : " ",
+        "sessions" : [ {
+          "items" : [ 113 ]
+        } ],
+        "startTime" : " "
+      }  ], 
+       
       "tracks" : [ {
         "title" : "Expo hall"
       }, {
@@ -135,6 +154,7 @@
       "tags" : [ "Suite", "Admin" ],
       "title" : "Google Suite for sales and office admin"
     },
+      
     "110" : {
       "description" : " ",
       "language" : "English",
@@ -142,12 +162,31 @@
       "tags" : [ "Flutter", "App", "Android" ],
       "title" : "Building beautiful UI using Flutter"
     },
-    "111" : {
-      "complexity" : "TBD",
-      "description" : "TBD",
+   
+      "111" : {
+      "description" : " ",
       "language" : "English",
-      "speakers" : [ "TBD" ],
-      "tags" : [ "TBD" ],
-      "title" : "TBD"
+      "speakers" : [ "Mayuri Khinvasara" ],
+      "tags" : [ "Android", "Jitpack" ],
+      "title" : "Solving common issues in Android apps "
     },
-  },
+      
+      "112" : {
+      "description" : " ",
+      "language" : "English",
+      "speakers" : [ "Tanuj Soni" ],
+      "tags" : [ "Blockchain", "Cryptocurrencies" ],
+      "title" : "Introduction to blockchain"
+      
+    },
+       "113" : {
+      "description" : " ",
+      "language" : "English",
+      "speakers" : [ "Harsh Dattani" ],
+      "tags" : [ "Python", "Cyber Security" ],
+      "title" : " "
+           
+    },      
+  },  
+           
+      
