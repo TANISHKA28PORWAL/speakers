@@ -256,4 +256,79 @@
 },
 
 
+"Mayuri Khinvasara" : {
+      "bio" : "Mayuri has over 9+ years of industry experience. She is a Lead Android Developer, community organizer, entrepreneur, social worker, dancer, etc. She has independently developed 3 Android apps with 6500+ downloads. After completing her engineering from PICT, Pune, she has worked with Oracle. Globant, etc in Pune, Hyderabad and USA.She also ranks 9th in University of Pune for Engineering."
+      "company" : "Google"
+      "company logo" : ""
+      "country" : "India"
+      "featured" : false,
+      "name" : "Mayuri Khinvasara"
+      "photo": "",
+      "photoUrl": "https://www.linkedin.com/in/mayurikhinvasara/detail/photo/",
+      "shortBio" : "Lightning Talk on solving common issues in Android apps (like reducing apk size, using jitpack, Android app bundle, network less notifications, location based notification, Gradle dependency management)"
+      "socials" : [ {
+               "icon" : "github",
+               "link" : "https://github.com/mayurik18",
+               "name" : "Github",
+            }, {
+               "icon" : "linkedin",
+               "link" : "http://www.linkedin.com/in/mayurikhinvasara",
+               "name" : "LinkedIn",
+            }, {
+               "icon" : "stackoverflow",
+               "link" : "https://stackoverflow.com/users/1300813/mayuri",
+               "name" : "Stack Overflow",
+            } ],
+      "order" : 1,
+      "title" : "Google Women Techmakers Lead, Pune"
+},
+
+
+"Tanuj Soni" : {
+      "bio" : " Tanuj Soni is a Tech enthusiast and a blockchain expert. He has gained experiences across software technologies like- RoR, NodeJS, MeteorJS, ReactJS and Elixir.Currently, he is working on Electronics part of IoT and able to prototype and develop hardware from scratch utilizing various sensors/technologies like- RFID, GPS, GSM, BLE, WiFi etc."
+      "company" : "Techracers"
+      "company logo" : ""
+      "country" : "India"
+      "featured" : false,
+      "name" : "Tanuj Soni"
+      "photo": "",
+      "photoUrl": "https://www.linkedin.com/in/tanujsoni/detail/photo/",
+      "shortBio" : "Lightning Talk on Introduction to blockchain, What are smart contracts and cryptocurrencies, How is blockchain distruption various industries "
+      "socials" : [ {
+               "icon" : "github",
+               "link" : "https://github.com/tanujsoni",
+               "name" : "Github",
+            }, {
+               "icon" : "linkedin",
+               "link" : "https://www.linkedin.com/in/tanujsoni/",
+               "name" : "LinkedIn",
+            } ],
+      "order" : 1,
+      "title" : "Blockchain Expert, Techracers, Indore."
+},
+
+"Harsh Dattani" : {
+      "bio" : "Mr. Harsh is an experienced Community Manager with a demonstrated history of working in the Internet industry. He is skilled in Python, Android, and Javascript and is a strong community and social services professional with a Master of Technology (M.Tech.) focused in Cyber Security & Incident Response from Gujarat Forensic Sciences University."
+      "company" : "Google"
+      "company logo" : ""
+      "country" : "India"
+      "featured" : false,
+      "name" : "Harsh Dattani"
+      "photo": "",
+      "photoUrl": "https://www.linkedin.com/in/harshdattani/detail/photo/",
+      "shortBio" : "Harsh Dattani is the Dveloper Community Manager at Google and is a python developer, cyber security expert and a mentor."
+      "socials" : [ {
+               "icon" : "github",
+               "link" : "https://github.com/harshdattani",
+               "name" : "Github",
+            }, {
+               "icon" : "linkedin",
+               "link" : "https://www.linkedin.com/in/harshdattani/",
+               "name" : "LinkedIn",
+            } ],
+      "order" : 1,
+      "title" : "Developer Community Manager,Google"
+},
+
+
 
